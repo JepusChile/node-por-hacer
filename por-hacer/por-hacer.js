@@ -85,6 +85,7 @@ const borrar = (descripcion) => {
     }
 
     /*  let index = listadoPorHacer.findIndex(tarea => tarea.descripcion === descripcion);
+    
     if (index >= 0) {
 
         listadoPorHacer.splice(index, 1);
